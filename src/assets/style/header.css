@@ -1,0 +1,39 @@
+
+
+  .container{
+  display: flex;
+  /* background-color: aqua; */
+  height: 100px;
+  width: 700px;
+  align-items: center;
+  justify-content: center;
+  
+  input{
+  width:  200px;
+  
+  
+    
+  }
+  button{
+  
+    background-color:black; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border: none; 
+    border-radius: 5px; 
+    font-size: 10px;; 
+    padding-left: 10px;
+    margin-left: 10px;
+  
+   }
+    
+ 
+  button:hover{
+    background-color:red;
+  }
+  
+  .pendu{
+  padding-left: 40px;
+  padding-right: 40px;
+  }
+  }
